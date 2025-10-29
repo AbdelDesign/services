@@ -343,7 +343,7 @@ app.innerHTML = `
     <div class="md:hidden glassmorphism border-b border-light-border dark:border-dark-border">
       <div class="flex items-center justify-between px-6 py-4">
         <a href="#inicio" class="block" aria-label="Abdel Design Home">
-          <img src="assets/logo/log.png" alt="Abdel Design Logo" class="h-8 w-auto">
+          <img src="assets/logo/" alt="Abdel Design Logo" class="h-8 w-auto">
         </a>
         <div class="flex items-center gap-4">
           <button onclick="window.toggleTheme()" class="p-2 hover:bg-light-surface dark:hover:bg-dark-surface rounded-full transition-all duration-200">
