@@ -621,10 +621,10 @@ app.innerHTML = `
             <a href="https://www.facebook.com/abdeldesigns" aria-label="Facebook" class="p-3 border border-light-border dark:border-dark-border rounded-full hover:bg-light-surface dark:hover:bg-dark-surface transition-colors duration-200">
                 ${getIcon('facebook')}
             </a>
-            <a href="https://abdeldesign.github.io/abdeldesign/" aria-label="LinkedIn" class="p-3 border border-light-border dark:border-dark-border rounded-full hover:bg-light-surface dark:hover:bg-dark-surface transition-colors duration-200">
+            <a href="" aria-label="LinkedIn" class="p-3 border border-light-border dark:border-dark-border rounded-full hover:bg-light-surface dark:hover:bg-dark-surface transition-colors duration-200">
                 ${getIcon('linkedin')}
             </a>
-            <a href="https://abdeldesign.github.io/abdeldesign/" aria-label="Behance" class="p-3 border border-light-border dark:border-dark-border rounded-full hover:bg-light-surface dark:hover:bg-dark-surface transition-colors duration-200">
+            <a href="" aria-label="Behance" class="p-3 border border-light-border dark:border-dark-border rounded-full hover:bg-light-surface dark:hover:bg-dark-surface transition-colors duration-200">
                 ${getIcon('behance')}
             </a>
         </div>
