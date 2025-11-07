@@ -320,7 +320,7 @@ app.innerHTML = `
       <div class="glassmorphism border border-light-border dark:border-dark-border px-6 py-3 rounded-full">
         <div class="flex items-center gap-6">
           <a href="#inicio" class="block" aria-label="Abdel Design Home">
-            <img src="/logo.png" alt="Abdel Design Logo" class="h-6 w-auto">
+            <img src="/1.png" alt="Abdel Design Logo" class="h-6 w-auto">
           </a>
           <div class="h-6 w-px bg-light-border dark:bg-dark-border"></div>
           <a href="#inicio" class="text-sm font-medium hover:text-light-muted dark:hover:text-dark-muted transition-colors duration-200">Início</a>
@@ -342,7 +342,7 @@ app.innerHTML = `
     <div class="md:hidden glassmorphism border-b border-light-border dark:border-dark-border">
       <div class="flex items-center justify-between px-6 py-4">
         <a href="#inicio" class="block" aria-label="Abdel Design Home">
-          <img src="/logo.png" alt="Abdel Design Logo" class="h-8 w-auto">
+          <img src="/1.png" alt="Abdel Design Logo" class="h-8 w-auto">
         </a>
         <div class="flex items-center gap-4">
           <button onclick="window.toggleTheme()" class="p-2 hover:bg-light-surface dark:hover:bg-dark-surface rounded-full transition-all duration-200">
