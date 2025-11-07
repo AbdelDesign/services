@@ -320,7 +320,7 @@ app.innerHTML = `
       <div class="glassmorphism border border-light-border dark:border-dark-border px-6 py-3 rounded-full">
         <div class="flex items-center gap-6">
           <a href="#inicio" class="block" aria-label="Abdel Design Home">
-            <img src="assets/logo/logo.png" alt="Abdel Design Logo" class="h-6 w-auto">
+            <img src="" alt="Abdel Design Logo" class="h-6 w-auto">
           </a>
           <div class="h-6 w-px bg-light-border dark:bg-dark-border"></div>
           <a href="#inicio" class="text-sm font-medium hover:text-light-muted dark:hover:text-dark-muted transition-colors duration-200">Início</a>
