@@ -615,7 +615,7 @@ app.innerHTML = `
       <div class="text-center my-12">
         <p class="text-light-muted dark:text-dark-muted mb-6">Ou conecte-se conosco</p>
         <div class="flex justify-center items-center gap-4">
-            <a href="https://www.instagram.com/abdeldesigns1/" aria-label="Instagram" class="p-3 border border-light-border dark:border-dark-border rounded-full hover:bg-light-surface dark:hover:bg-dark-surface transition-colors duration-200">
+            <a href="https://www.instagram.com/abdel.designs" aria-label="Instagram" class="p-3 border border-light-border dark:border-dark-border rounded-full hover:bg-light-surface dark:hover:bg-dark-surface transition-colors duration-200">
                 ${getIcon('instagram')}
             </a>
             <a href="https://www.facebook.com/abdeldesigns" aria-label="Facebook" class="p-3 border border-light-border dark:border-dark-border rounded-full hover:bg-light-surface dark:hover:bg-dark-surface transition-colors duration-200">
